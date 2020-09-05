@@ -1,7 +1,2 @@
 Datei 1
-Die Zeile habe ich neu eingefügt
 Diese auch
-
-Über mir ist eine Leerzeile
-
-Diese Zeile wird gleich entfernt
